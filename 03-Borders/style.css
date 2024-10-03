@@ -1,0 +1,41 @@
+header {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+span {
+    border-width: 4px;
+    border-style: dashed;
+    border-color: red;
+}
+
+nav {
+    border-width: 6px;
+    border-style: dotted;
+    border-color: green;
+}
+
+nav ul {
+    border-width: 8px;
+    border-style: groove;
+    border-color: brown;
+}
+
+nav ul li {
+    border-width: 10px;
+    border-style: inset;
+    border-color: red;
+}
+
+main {
+    border: 6px outset magenta;
+}
+
+section  {
+    border: 8px ridge greenyellow;
+}
+
+footer {
+    border: 6px double orangered;
+}
