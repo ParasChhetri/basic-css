@@ -1,0 +1,26 @@
+
+/* Descendant Selector */
+#menu li {
+    background-color: red;
+}
+
+header a {
+    background-color: green;
+    color: white;
+}
+
+/* Element selector or Tag name selector */
+p {
+    color: red;
+}
+
+/* Id Selector */
+#list {
+    background-color: orangered;
+}
+
+/* Class Selector */
+.footer-text {
+    background-color: orangered;
+    color: white;
+}

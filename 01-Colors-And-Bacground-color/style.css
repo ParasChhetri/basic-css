@@ -1,0 +1,15 @@
+body {
+    background-color: cadetblue;
+}
+
+.fist-container {
+    background-color: rgb(1, 199, 199);
+}
+
+.fist-container p {
+    color: white;
+}
+
+.clr-red {
+    color: red;
+}
